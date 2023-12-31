@@ -5,8 +5,8 @@ ___
 ## Some Stats 
 
 <p>
-  <img height =200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfelhamri&layout=compact&theme=dark">
-  <img height =200 align="center" src="https://github-readme-stats.vercel.app/api?username=ysfelhamri&show_icons=true&theme=dark&rank_icon=github">
+  <img height =180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfelhamri&layout=compact&theme=dark">
+  <img height =180 align="center" src="https://github-readme-stats.vercel.app/api?username=ysfelhamri&show_icons=true&theme=dark&rank_icon=github">
 </p>
 
 ___
