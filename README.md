@@ -11,7 +11,7 @@ ___
 
 ___
 
-## Check these repositories uut 
+## Check these repositories out 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ysfelhamri&repo=Snoopy&theme=dark)](https://github.com/ysfelhamri/Snoopy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ysfelhamri&repo=closureandkeys&theme=dark)](https://github.com/ysfelhamri/closureandkeys)
